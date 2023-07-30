@@ -1,6 +1,6 @@
 ### Hi there 👋
-*👤 Name: Aline Michelle Romero Llorente
-*😄 Pronouns: She/Her
+--👤 Name: Aline Michelle Romero Llorente
+-😄 Pronouns: She/Her
 *📍 Location: Toluca, Estado de México, 🇲🇽
 *📣 Languages: Spanish & English 
 *🌱 I’m currently studying a bachelor's degree in Biotechnology
