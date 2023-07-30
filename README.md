@@ -1,3 +1,9 @@
+<div align="center">
+	<img src="https://komarev.com/ghpvc/?username=AlineLlorente&color=blue&style=for-the-badge" alt="Profile views"/>
+	<img src="https://img.shields.io/github/followers/AlineLlorente?style=for-the-badge&logo=github&color=blue" alt="Github followers"/> 
+	<img src="https://img.shields.io/twitter/follow/AlineLlorente?style=for-the-badge&logo=twitter&color=blue" alt="Twitter followers"/>   
+</div>
+
 ### Hi there 👋
 <ul>
 
